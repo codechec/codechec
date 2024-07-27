@@ -1,4 +1,4 @@
-Used in D197 Version Control course for WGU.
+Used in D197 Version Control course for WGU Computer Science degree.
 
 - 👋 Hi, I’m @codechec
 - 👀 I’m interested in ...
